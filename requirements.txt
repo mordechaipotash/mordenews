@@ -1,0 +1,13 @@
+# MordeNews - Automated Daily Podcast Pipeline
+#
+# Core dependencies (install these first):
+#   brew install ffmpeg yt-dlp jq
+#
+# MLX models (Apple Silicon only):
+#   pip install parakeet-mlx kokoro-mlx
+#
+# Gemini CLI:
+#   npm install -g @anthropic-ai/gemini  (or use pip install google-generativeai)
+
+# Python dependencies
+requests>=2.28.0

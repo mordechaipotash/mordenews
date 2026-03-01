@@ -1,0 +1,29 @@
+{
+  "channels": {
+    "Matthew Berman": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "Wes Roth": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+    "Lex Fridman": "UCSHZKyawb77ixDdsGog4iWA",
+    "Matt Wolfe": "UChpleBmo18P08aKCIgti38g",
+    "WorldofAI": "UC2WmuBuFq6gL08QYG-JjXKw",
+    "David Shapiro": "UCvKRFNawVcuz4b9ihUTApCg",
+    "AICodeKing": "UC0m81bQuthaQZmFbXEY9QSw",
+    "Mervin Praison": "UCWTyktbw5JYoSBduu8LsBgQ",
+    "The Diary Of A CEO": "UCGq-a57w-aPwyi3pW7XLiHw",
+    "Fireship": "UCsBjURrPoezykLs9EqgamOA",
+    "1littlecoder": "UCpV_X0VrL8-jg3t6wYGS-1g",
+    "AI Explained": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "Two Minute Papers": "UCbfYPyITQ-7l4upoX8nvctg",
+    "TheAIGrid": "UCbY9xX3_jW5c2fjlZVBI4cg",
+    "MattVidProAI": "UC5Wz4fFacYuON6IKbhSa7Zw",
+    "Dwarkesh Patel": "UCXl4i9dYBrFOabk0xGmbkRA",
+    "The AI Advantage": "UCHhYXsLBEVVnbvsq57n1MTQ",
+    "Skill Leap AI": "UCwSozl89jl2zUDzQ4jGJD3g",
+    "AI Jason": "UCDATi9UrhqjfVNxIKNizOiQ",
+    "Sam Witteveen": "UC55ODQSvARtgSyc8ThfiepQ",
+    "Yannic Kilcher": "UCZHmQk67mSJgfCCTn7xBfew"
+  },
+  "maxVideosPerChannel": 3,
+  "lookbackDays": 1,
+  "audioQuality": 5,
+  "whisperModel": "tiny.en"
+}
