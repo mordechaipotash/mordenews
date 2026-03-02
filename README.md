@@ -2,9 +2,15 @@
 
 **Automated daily podcast from YouTube channels. Zero human involvement.**
 
+<p align="center">
+  <img src="assets/demo-autoplay.gif" alt="MordeNews Demo" width="640"/>
+</p>
+
+<p align="center"><i>⬆️ Auto-playing preview — <a href="https://github.com/mordechaipotash/mordenews/raw/main/assets/demo.mp4">click here for full video with audio</a></i></p>
+
 Every morning at 6am, this pipeline wakes up, downloads the latest videos from 21 AI/tech YouTube channels, transcribes them locally, summarizes with Gemini, speaks the summaries with neural TTS, stitches everything into a two-host daily podcast, and publishes it. You wake up, the podcast is ready.
 
-No cloud GPUs. No paid transcription APIs. Runs on a Mac Mini M4. ~$0.01/day in API costs.
+No cloud GPUs. No paid transcription APIs. Runs on a Mac Mini M4. **~$0.01/day in API costs.**
 
 ---
 
