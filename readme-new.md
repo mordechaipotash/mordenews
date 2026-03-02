@@ -2,7 +2,7 @@
 
 **Automated daily podcast from YouTube channels. Zero human involvement.**
 
-https://github.com/mordechaipotash/mordenews/raw/main/assets/demo.mp4
+<video src="https://github.com/mordechaipotash/mordenews/raw/main/assets/demo.mp4" width="100%" autoplay loop muted playsinline></video>
 
 ---
 
